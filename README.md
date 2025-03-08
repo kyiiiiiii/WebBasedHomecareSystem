@@ -9,6 +9,19 @@ A Laravel-based homecare monitoring system with real-time communication, video c
 ✅ Secure authentication and role-based access<br>
 ✅ WAMPServer (MySQL) support for local database simulation<br>
 
+🛠️ Hardware Components<br>
+Arduino Uno<br>
+Heartbeat Sensor AD8232 <br>
+USB Cable (for data transmission)<br>
+Jumper Wires<br>
+🔗 How It Works<br>
+The heartbeat sensor detects the pulse from the patient’s fingertip.<br>
+The Arduino Uno processes the signal and sends the heart rate data via serial communication.<br>
+The system stores and displays the data in real time on the patient dashboard.<br>
+
+
+
+
 🛠️ Installation Guide<br>
 1. Clone the Repository<br>
    - git clone https://github.com/kyiiiiiii/WebBasedHomecareSystem.git<br>
@@ -39,7 +52,7 @@ Open http://127.0.0.1:8000 in your browser.
 🔹 Daily.co - Video calls<br>
 🔹 JavaScript & jQuery - Frontend interactivity<br>
 
-📸 Screenshots
+📸 Applications Screenshots
 
 ### 🏠 Login Page  
 ![Login Page](screenshots/LoginPage.png)  
