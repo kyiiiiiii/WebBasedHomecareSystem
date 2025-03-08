@@ -11,8 +11,8 @@ A Laravel-based homecare monitoring system with real-time communication, video c
 
 🛠️ Installation Guide<br>
 1. Clone the Repository<br>
-   git clone https://github.com/kyiiiiiii/WebBasedHomecareSystem.git<br>
-   cd WebBasedHomecareSystem<br>
+   <li>git clone https://github.com/kyiiiiiii/WebBasedHomecareSystem.git</li><br>
+   <li>cd WebBasedHomecareSystem</li><br>
     
 2. Install Dependencies<br>
    composer install<br>
