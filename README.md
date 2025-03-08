@@ -16,17 +16,17 @@ Developed by ME, a Software Engineering student, as part of the final year proje
 This system integrates an Arduino Uno with a heartbeat sensor to measure a patient’s heart rate. The data is processed using Python and sent to a Laravel API, where it is stored and displayed in real-time on the patient dashboard.<br>
 
 🛠️ Hardware Components<br>
-Arduino Uno<br>
-Heartbeat Sensor AD8232 <br>
-USB Cable (for data transmission)<br>
-Jumper Wires<br>
+= Arduino Uno<br>
+= Heartbeat Sensor AD8232 <br>
+= USB Cable (for data transmission)<br>
+= Jumper Wires<br>
 
 ![Hardware](screenshots/arduino.png)
 
 🔗 How It Works<br>
-The heartbeat sensor detects the pulse from the patient’s fingertip.<br>
-The Arduino Uno processes the signal and sends the heart rate data via serial communication.<br>
-The system stores and displays the data in real time on the patient dashboard.<br>
+= The heartbeat sensor detects the pulse from the patient’s fingertip.<br>
+= The Arduino Uno processes the signal and sends the heart rate data via serial communication.<br>
+= The system stores and displays the data in real time on the patient dashboard.<br>
 
 ### 🖥️ The result will look like this:
 ![Heartbeat Monitoring](screenshots/heartbeat.png)
