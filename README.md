@@ -11,23 +11,23 @@ A Laravel-based homecare monitoring system with real-time communication, video c
 
 🛠️ Installation Guide<br>
 1. Clone the Repository<br>
-   <li>git clone https://github.com/kyiiiiiii/WebBasedHomecareSystem.git</li><br>
-   <li>cd WebBasedHomecareSystem</li><br>
+   - git clone https://github.com/kyiiiiiii/WebBasedHomecareSystem.git<br>
+   - cd WebBasedHomecareSystem</li><br>
     
 2. Install Dependencies<br>
-   composer install<br>
-   npm install<br>
+   - composer install<br>
+   - npm install<br>
 
 3. Configure Environment Variables<br>
-   Copy .env.example and rename it to .env<br>
-   Update database settings in .env (WAMP MySQL)<br>
-   Add your Pusher.js and Daily.co credentials<br>
+   - Copy .env.example and rename it to .env<br>
+   - Update database settings in .env (WAMP MySQL)<br>
+   - Add your Pusher.js and Daily.co credentials<br>
 
 4. Database Setup<br>
-   php artisan migrate --seed<br>
+   - php artisan migrate --seed<br>
 
 5. Start the Application<br>
-   php artisan serve<br>
+   - php artisan serve<br>
 
 Open http://127.0.0.1:8000 in your browser.
 
