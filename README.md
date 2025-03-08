@@ -11,11 +11,13 @@ A Laravel-based homecare monitoring system with real-time communication, video c
 
 💓 Heartbeat Monitoring with Arduino Uno<br>
 This system integrates an Arduino Uno with a heartbeat sensor to measure a patient’s heart rate. The data is processed using Python and sent to a Laravel API, where it is stored and displayed in real-time on the patient dashboard.<br>
+
 🛠️ Hardware Components<br>
 Arduino Uno<br>
 Heartbeat Sensor AD8232 <br>
 USB Cable (for data transmission)<br>
 Jumper Wires<br>
+
 🔗 How It Works<br>
 The heartbeat sensor detects the pulse from the patient’s fingertip.<br>
 The Arduino Uno processes the signal and sends the heart rate data via serial communication.<br>
