@@ -18,11 +18,15 @@ Heartbeat Sensor AD8232 <br>
 USB Cable (for data transmission)<br>
 Jumper Wires<br>
 
+![Hardware](screenshots/arduino.png)
+
 🔗 How It Works<br>
 The heartbeat sensor detects the pulse from the patient’s fingertip.<br>
 The Arduino Uno processes the signal and sends the heart rate data via serial communication.<br>
 The system stores and displays the data in real time on the patient dashboard.<br>
 
+### 🖥️ The result will look like this:
+![Heartbeat Monitoring](screenshots/heartbeat_result.png)
 
 
 
