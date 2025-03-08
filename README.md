@@ -41,6 +41,17 @@ Open http://127.0.0.1:8000 in your browser.
 
 📸 Screenshots
 
+## 📸 Screenshots  
 
+### 🏠 Login Page  
+![Login Page](screenshots/LoginPage.png)  
 
+### 🔹 Admin Dashboard  
+![Admin Dashboard](screenshots/admin%20dashboard.png)  
+
+### 📅 Appointment  
+![Appointment](screenshots/appintment.png)  
+
+### 📞 Video Call  
+![Video Call](screenshots/videocall.png)  
 
