@@ -14,7 +14,7 @@ A Laravel-based homecare monitoring system with real-time communication, video c
    git clone https://github.com/kyiiiiiii/WebBasedHomecareSystem.git<br>
    cd WebBasedHomecareSystem<br>
     
-2. Install Dependencies
+2. Install Dependencies<br>
    composer install<br>
    npm install<br>
 
@@ -23,11 +23,11 @@ A Laravel-based homecare monitoring system with real-time communication, video c
    Update database settings in .env (WAMP MySQL)<br>
    Add your Pusher.js and Daily.co credentials<br>
 
-4. Database Setup
-   php artisan migrate --seed
+4. Database Setup<br>
+   php artisan migrate --seed<br>
 
-5. Start the Application
-   php artisan serve
+5. Start the Application<br>
+   php artisan serve<br>
 
 Open http://127.0.0.1:8000 in your browser.
 
