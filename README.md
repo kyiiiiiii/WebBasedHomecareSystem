@@ -18,7 +18,7 @@ Heartbeat Sensor AD8232 <br>
 USB Cable (for data transmission)<br>
 Jumper Wires<br>
 
-![Hardware](screenshots/arduino.png)
+![Hardware](screenshots/heartbeat.png)
 
 🔗 How It Works<br>
 The heartbeat sensor detects the pulse from the patient’s fingertip.<br>
