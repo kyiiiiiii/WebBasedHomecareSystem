@@ -1,4 +1,4 @@
-🏥 Web-Based Homecare System
+🏥 Web-Based Homecare System<br>
 A Laravel-based homecare monitoring system with real-time communication, video calls, and patient management.
 
 🚀 Features<br>
@@ -8,3 +8,39 @@ A Laravel-based homecare monitoring system with real-time communication, video c
 ✅ Admin Portal for monitoring patient requests & caregiver activities<br>
 ✅ Secure authentication and role-based access<br>
 ✅ WAMPServer (MySQL) support for local database simulation<br>
+
+🛠️ Installation Guide<br>
+1. Clone the Repository<br>
+   git clone https://github.com/kyiiiiiii/WebBasedHomecareSystem.git<br>
+   cd WebBasedHomecareSystem<br>
+    
+2. Install Dependencies
+   composer install<br>
+   npm install<br>
+
+3. Configure Environment Variables<br>
+   Copy .env.example and rename it to .env<br>
+   Update database settings in .env (WAMP MySQL)<br>
+   Add your Pusher.js and Daily.co credentials<br>
+
+4. Database Setup
+   php artisan migrate --seed
+
+5. Start the Application
+   php artisan serve
+
+Open http://127.0.0.1:8000 in your browser.
+
+📜 Tech Stack<br>
+🔹 Laravel 8 - Backend Framework<br>
+🔹 Bootstrap 5 - UI Framework<br>
+🔹 MySQL (WAMPServer) - Database<br>
+🔹 Pusher.js - Real-time messaging<br>
+🔹 Daily.co - Video calls<br>
+🔹 JavaScript & jQuery - Frontend interactivity<br>
+
+📸 Screenshots
+
+
+
+
