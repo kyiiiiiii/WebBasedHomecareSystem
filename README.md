@@ -2,12 +2,12 @@
 A Laravel-based homecare monitoring system with real-time communication, video calls, and patient management.
 
 🚀 Features
-✅ Real-time chat using Pusher.js
-✅ Video calls with Daily.co
-✅ Patient Portal for managing homecare services
-✅ Admin Portal for monitoring patient requests & caregiver activities
-✅ Secure authentication and role-based access
-✅ WAMPServer (MySQL) support for local database simulation
+<p>✅ Real-time chat using Pusher.js</p><br>
+<p>✅ Video calls with Daily.co</p><br>
+<p>✅ Patient Portal for managing homecare services</p><br>
+<p>✅ Admin Portal for monitoring patient requests & caregiver activities</p><br>
+<p>✅ Secure authentication and role-based access</p><br>
+<p>✅ WAMPServer (MySQL) support for local database simulation</p><br>
 
 🛠️ Installation Guide
 
