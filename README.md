@@ -1,5 +1,8 @@
 🏥 Web-Based Homecare System<br>
-A Laravel-based homecare monitoring system with real-time communication, video calls, and patient management.
+A Laravel-based homecare monitoring system with real-time communication, video calls, and patient management.<br>
+
+📌 **Final Year Project (FYP)**  <br>
+Developed by ME, a Software Engineering student, as part of the final year project to enhance homecare monitoring and patient management.<br>
 
 🚀 Features<br>
 ✅ Real-time chat using Pusher.js<br>
@@ -18,7 +21,7 @@ Heartbeat Sensor AD8232 <br>
 USB Cable (for data transmission)<br>
 Jumper Wires<br>
 
-![Hardware](screenshots/heartbeat.png)
+![Hardware](screenshots/arduino.png)
 
 🔗 How It Works<br>
 The heartbeat sensor detects the pulse from the patient’s fingertip.<br>
@@ -26,7 +29,7 @@ The Arduino Uno processes the signal and sends the heart rate data via serial co
 The system stores and displays the data in real time on the patient dashboard.<br>
 
 ### 🖥️ The result will look like this:
-![Heartbeat Monitoring](screenshots/heartbeat_result.png)
+![Heartbeat Monitoring](screenshots/heartbeat.png)
 
 
 
