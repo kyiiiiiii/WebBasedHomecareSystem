@@ -41,7 +41,34 @@ Open http://127.0.0.1:8000 in your browser.
 
 📸 Screenshots
 
-## 📸 Screenshots  
+### 🏠 Login Page  
+![Login Page](screenshots/LoginPage.png)  
 
-<p align="center"> <img src="screenshots/LoginPage.png" width="300"> <img src="screenshots/admin%20dashboard.png" width="300"> <img src="screenshots/appintment.png" width="300"> <img src="screenshots/healthinfo.png" width="300"> <img src="screenshots/message.png" width="300"> <img src="screenshots/patientDashboard.png" width="300"> <img src="screenshots/responsiveness.png" width="300"> <img src="screenshots/services.png" width="300"> <img src="screenshots/services2.png" width="300"> <img src="screenshots/videocall.png" width="300"> </p>
+### 🔹 Admin Dashboard  
+![Admin Dashboard](screenshots/admin%20dashboard.png)  
+
+### 📅 Appointment  
+![Appointment](screenshots/appintment.png)  
+
+### 🏥 Health Info  
+![Health Info](screenshots/healthinfo.png)  
+
+### 💬 Messages  
+![Messages](screenshots/message.png)  
+
+### 🧑‍⚕️ Patient Dashboard  
+![Patient Dashboard](screenshots/patientDashboard.png)  
+
+### 📏 Responsiveness  
+![Responsiveness](screenshots/responsiveness.png)  
+
+### 🛠️ Services  
+![Services](screenshots/services.png)  
+
+### 🛠️ More Services  
+![More Services](screenshots/services2.png)  
+
+### 📞 Video Call  
+![Video Call](screenshots/videocall.png)  
+
 
