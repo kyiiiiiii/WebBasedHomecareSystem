@@ -63,7 +63,7 @@ Open http://127.0.0.1:8000 in your browser.
 🔹 Daily.co - Video calls<br>
 🔹 JavaScript & jQuery - Frontend interactivity<br>
 
-📸 Applications Screenshots
+###📸 Sample Screenshots
 
 ### 🏠 Login Page  
 ![Login Page](screenshots/LoginPage.png)  
